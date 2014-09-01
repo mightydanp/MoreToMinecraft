@@ -1,0 +1,11 @@
+<?xml version="1.0" ?> 
+<project name="Top" default="build">
+	<target name="reobfuscate">
+	    <exec dir="${build.dir.development}\forge" executable="cmd" osfamily="windows">
+			 <arg line="/c gradlew.bat build" />
+		</exec>
+		<exec dir="${build.dir.development}\forge" executable="bash" osfamily="unix">
+			<arg line="gradlew.sh build" />
+		</exec>
+	</target>
+</project>
