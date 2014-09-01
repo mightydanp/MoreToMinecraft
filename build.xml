@@ -4,8 +4,5 @@
 	    <exec executable="cmd" osfamily="windows">
 			 <arg line="/c gradlew.bat build" />
 		</exec>
-		<exec  executable="bash" osfamily="unix">
-			<arg line="gradlew.sh build" />
-		</exec>
 	</target>
 </project>
