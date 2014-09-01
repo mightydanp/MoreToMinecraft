@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+	<comment>English (en_US) Localization File</comment>
+	<entry key="tile.CopperOre.name">Copper Ore</entry>
+	<entry key="tile.TinOre.name">Tin Ore</entry>
+	<entry key="tile.SilverOre.name">Silver Ore</entry>
+	<entry key="tile.AluminiumOre.name">Aluminium Ore</entry>
+	<entry key="tile.RubyOre.name">Ruby Ore</entry>
+	<entry key="tile.SapphireOre.name">Sapphire Ore</entry>
+	<entry key="tile.BlackDiamondOre.name">BlackDiamond Ore</entry>
+	
+	<entry key="tile.BlockOfCopper.name">Block Of Copper</entry>
+	<entry key="tile.BlockOfTin.name">Block of Tin</entry>
+	<entry key="tile.BlockOfBronze.name">Block Of Bronze</entry>
+    <entry key="tile.BlockOfSilver.name">Block Of Silver</entry>
+	<entry key="tile.BlockOfSteel.name">Block Of Steel</entry>
+	<entry key="tile.BlockOfRuby.name">Block Of Ruby</entry>
+	<entry key="tile.BlockOfSapphire.name">Block Of Sapphire</entry>
+	<entry key="tile.BlockOfBlackDiamond.name">Block Of BlackDiamond</entry>
+	
+	<entry key="tile.CastleBrick.name">Castle Brick</entry>
+	<entry key="tile.CastleBrickStairs.name">Castle Brick Stair</entry>
+	<entry key="tile.CastleSingleSlabs.name">Castle Brick Slab</entry>
+	<entry key="tile.CastleDoubleSlabs.name">Castle Brick Double Slab</entry>
+	<entry key="tile.TomatoeCrop.name">Tomartoe Crop</entry>
+	
+	<entry key="tile.RaspBerryBush.name">RaspBerry Bush</entry>
+	<entry key="tile.BlueBerryBush.name">BlueBerry Bush</entry>
+	
+	<entry key="tile.IronFurnaceIdle.name">IronFurnace</entry>
+	<entry key="tile.IronFurnaceActive.name">IronFurnaceActive</entry>
+	
+	<entry key="item.CopperIngot.name">Copper Ingot</entry>
+	<entry key="item.TinIngot.name">Tin Ingot</entry>
+	<entry key="item.SteelIngot.name">Steel Ingot</entry>
+	<entry key="item.BronzeIngot.name">Bronze Ingot</entry>
+	<entry key="item.SilverIngot.name">Silver Ingot</entry>
+	
+	<entry key="item.ChunkOfBronze.name">Chunk Of Bronze</entry>
+	<entry key="item.ChunkOfAluminium.name">Chunk Of Aluminium</entry>
+	
+	<entry key="item.Ruby.name">Ruby</entry>
+    <entry key="item.Sapphire.name">Sapphire</entry>
+	<entry key="item.BlackDiamond.name">BlackDiamond</entry>
+	
+	<entry key="tile.KnightHelmet.name">Knight Helmet</entry>
+	
+	<entry key="item.BronzeSword.name">Bronze Sword</entry>
+    <entry key="item.BronzePickAxe.name">Bronze Pickaxe</entry>
+	<entry key="item.BronzeAxe.name">Bronze Axe</entry>
+	<entry key="item.BronzeShovel.name">Bronze Shovel</entry>
+	<entry key="item.BronzeHoe.name">Bronze Hoe</entry>
+	
+    <entry key="item.SteelSword.name">Steel Sword</entry>
+    <entry key="item.SteelPickAxe.name">Steel Pickaxe</entry>
+	<entry key="item.SteelAxe.name">Steel Axe</entry>
+	<entry key="item.SteelShovel.name">Steel Shovel</entry>
+	<entry key="item.SteelHoe.name">Steel Hoe</entry>
+	
+	<entry key="item.BlackDiamondSword.name">BlackDiamond Sword</entry>
+    <entry key="item.BlackDiamondPickAxe.name">BlackDiamond Pickaxe</entry>
+	<entry key="item.BlackDiamondAxe.name">BlackDiamond Axe</entry>
+	<entry key="item.BlackDiamondShovel.name">BlackDiamond Shovel</entry>
+	<entry key="item.BlackDiamondHoe.name">BlackDiamond Hoe</entry>
+	
+	<entry key="item.BronzeHelmet.name">Bronze Helmet</entry>
+	<entry key="item.BronzeChestPlate.name">Bronze ChestPlate</entry>
+	<entry key="item.BronzeLeggings.name">Bronze Leggings</entry>
+	<entry key="item.BronzeBoots.name">Bronze Boots</entry>
+	
+	<entry key="item.SteelHelmet.name">Steel Helmet</entry>
+	<entry key="item.SteelChestPlate.name">Steel ChestPlate</entry>
+	<entry key="item.SteelLeggings.name">Steel Leggings</entry>
+	<entry key="item.SteelBoots.name">Steel Boots</entry>
+	
+	<entry key="item.BlackDiamondHelmet.name">BlackDiamond Helmet</entry>
+	<entry key="item.BlackDiamondChestPlate.name">BlackDiamond ChestPlate</entry>
+	<entry key="item.BlackDiamondLeggings.name">BlackDiamond Leggings</entry>
+	<entry key="item.BlackDiamondBoots.name">BlackDiamond Boots</entry>
+	
+	<entry key="item.KnightHelmet.name">Knight Helmet</entry>
+	
+	<entry key="item.TomatoSeed.name">Tomato Seed</entry>
+	<entry key="item.CornSeed.name">Corn Seed</entry>
+		
+    <entry key="item.Tomato.name">Tomato</entry>
+	<entry key="item.Corn.name">Corn</entry>
+	<entry key="item.RawLambChop.name">Raw Lamb Chop</entry>
+	<entry key="item.CookedLambChop.name">Cooked Lamb Chop</entry>
+	<entry key="item.BlueBerry.name">Blue Berry</entry>
+	<entry key="item.RaspBerry.name">Rasp Berry</entry>
+	
+	<entry key="item.CrossBow.name">Cross Bow</entry>
+	
+	<entry key="itemGroup.moretominecraft">Mo' To Minecraft</entry>
+	
+	<entry key="container.inventory">Inventory</entry>
+</properties>

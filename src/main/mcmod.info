@@ -1,0 +1,20 @@
+[
+{
+  "modid": "mtm",
+  "name": "Mo' To Minecraft",
+  "description": "The Mod You Wish You Had",
+  "version": "0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "mightydanp"
+  ],
+  "credits": "By mightydanp",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
